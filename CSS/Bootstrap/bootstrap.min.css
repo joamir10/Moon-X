@@ -57,6 +57,8 @@
     --bs-body-bg: #fff
 }
 
+
+
 *,::after,::before {
     box-sizing: border-box
 }
@@ -12791,4 +12793,5 @@ table.datatab tbody tr.even2 td {
 
 
 /* +++++++++++++++++++++++++++++++++++++++++++++++ */
+
 
