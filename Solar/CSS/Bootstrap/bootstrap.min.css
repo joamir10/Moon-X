@@ -74,14 +74,15 @@ immg{
 }
 
 header .container {
-    padding-top: 465px;
+    padding-top: 340px;
+    padding-left: -1000px;
+    text-align: left;
 }
 
 header{
-    background-image: url(https://moon.nasa.gov/internal_resources/379/);
+    background-image: url(https://cdn.wallpapersafari.com/68/11/fH4i9d.jpg);
+
 }
-
-
 
 body {
     margin: 0;
