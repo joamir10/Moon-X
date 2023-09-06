@@ -83,17 +83,7 @@ header h1 span {
     font-size: 70px;
 }
 
-#contact .data {
-    display: flex;
-    align-items: center;
-    border: 1px solid black;
-    margin-top: 30px;
-    padding: 510x;
-    padding-top: 5px;
-    width: fit-content;
-    height: 300px;
-    text-align: justify;
-}
+
 
 a {
     color: rgb(255, 115, 0);
